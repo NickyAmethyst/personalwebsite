@@ -1,0 +1,51 @@
+body {
+    margin:0;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 0 0.5em;
+}
+
+.main-header {
+    background-color: powderblue;
+    margin:0;
+}
+
+.main-header ul {
+    margin: 0;
+    list-style: none;
+    text-align: center;
+    border-bottom: 1px solid #ffffff50;
+}
+
+nav {
+    margin:0;
+}
+nav li {
+    display: inline-block;
+    margin: 0;
+}
+
+nav a:hover {
+    background-color: #ffffff50;
+}
+
+.main-header h1 {
+    padding: 10px;
+}
+
+
+.content-section {
+    padding: 1.5em;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.section-header {
+    text-align:center
+}
+
+.main-footer {
+    background-color: powderblue;
+}
